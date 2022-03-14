@@ -22,7 +22,7 @@ afterEach(async () => {
 const user = {
   name: process.env.USER_LOGIN,
   password: process.env.USER_PASSWORD,
-  cpf: "251.412.320-85",
+  cpf: "751.599.160-75",
   valorPrestação: "64000",
 };
 
